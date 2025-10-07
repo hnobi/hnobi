@@ -57,7 +57,7 @@
 
 
 
-- [Awesome Project](https://github.com/username/awesome-project) – **Syndicate** – Scalable community **API** with **NestJS**, **MongoDB**, **BullMQ**  for asynchronous workflows, , **Redis caching**, and cloud-native deployment on **AWS (Fargate, ECR, ECS, AutoScaling, Load Balancer, Secret Manager)** with **Terraform & CI/CD**.
+- [Syndicate](https://github.com/hnobi/syndicate) – A Scalable community **API** with **NestJS**, **MongoDB**, **BullMQ**  for asynchronous workflows, , **Redis caching**, and cloud-native deployment on **AWS (Fargate, ECR, ECS, AutoScaling, Load Balancer, Secret Manager)** with **Terraform & CI/CD**.
 
 - [Summer AI](https://github.com/hnobi/summar-ai)- Next.js-based application that helps users rewrite sentences with customizable tones. The project provides features like history tracking, explanation for improvements, and options for downloading and managing rewritten sentences.
 
