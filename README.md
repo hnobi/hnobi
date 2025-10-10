@@ -66,6 +66,11 @@
 ## 🌱 I’m currently learning
 - Mastering advanced DevOps workflows and designing scalable software architecture
 
+&nbsp;![](https://komarev.com/ghpvc/?username=hnobi&color=brightgreen)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hnobi&show_icons=true&rank_icon=github&locale=en" alt="ashishps1" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishps1&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
+</p>
+
 
 
 
